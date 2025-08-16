@@ -19,4 +19,5 @@ Git & GitHub Basics
 **🏆 Highlights:**
 
 Kickstarted my coding journey with 100+ practice problems
+
 Building consistency through daily learning
